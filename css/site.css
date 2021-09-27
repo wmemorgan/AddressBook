@@ -1,0 +1,17 @@
+
+
+@media only screen and (max-width: 576px) {
+  .main-container,
+  .form-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+
+
+.profile-image {
+  width: 100%;
+}
