@@ -10,8 +10,16 @@
   }
 }
 
-
-
 .profile-image {
   width: 100%;
+}
+
+.form-design {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.button-design {
+  align-self: flex-end;
 }
